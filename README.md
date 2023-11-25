@@ -6,14 +6,14 @@ This repository, titled "ClusteringAssignment", contains various Jupyter noteboo
 ### Contents
 The repository includes notebooks on various clustering methods, each notebook dedicated to a specific clustering algorithm. These include:
 
-Anomaly Detection
-Audio Clustering
-DBScan Clustering
-Document Clustering
-Gaussian Clustering
-Hierarchical Clustering
-Image Clustering
-KMeans Clustering
+Anomaly Detection, 
+Audio Clustering,  
+DBScan Clustering, 
+Document Clustering, 
+Gaussian Clustering, 
+Hierarchical Clustering, 
+Image Clustering, 
+KMeans Clustering, and
 Time Series Clustering
 Each notebook contains code and explanations, making it easier for learners to grasp the concepts and apply them in practical scenarios.
 
